@@ -1,5 +1,5 @@
 # QDK
-The project is fork qnap SDK 2.2.4
+The project is fork from qnap SDK 2.2.4
 
 # QDK Download Link:
 
